@@ -1,2 +1,3 @@
 # google-auth
-Página de autenticação utilizando o Google
+Interface de autenticação utilizando o Google
+
